@@ -1,0 +1,2 @@
+C:\Users\kumecfe\source\repos\ServerTry\Debug\ServerTry.exe
+C:\Users\kumecfe\source\repos\ServerTry\Debug\ServerTry.pdb
